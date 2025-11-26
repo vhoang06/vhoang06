@@ -1,10 +1,9 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81%E3%83%89%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88%E3%83%BB%E3%83%9B%E3%82%A2%E3%83%B3%E3%81%A7%E3%81%99;Web+Developer+%E2%80%A2+%E3%83%95%E3%82%A9%E3%83%B3%E3%83%89%E3%83%B3%E5%A4%A7%E5%AD%A6+2%E5%B9%B4%E7%94%9F;%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E2%86%92%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%B8%8C%E6%9C%9B;BacGiang%2C+Vietnam+%E2%86%92+%E6%97%A5%E6%9C%AC%F0%9F%87%AF%EF%B8%8F" alt="Typing SVG" />
-# こんにちは、私はヒエウです 👋  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81%E3%83%89%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88%E3%83%BB%E3%83%9B%E3%82%A2%E3%83%B3%E3%81%A7%E3%81%99;Web+Developer+%E2%80%A2+%E3%83%95%E3%82%A9%E3%83%B3%E3%83%89%E3%83%B3%E5%A4%A7%E5%AD%A6+2%E5%B9%B4%E7%94%9F;%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E2%86%92%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%B8%8C%E6%9C%9B;BacGiang%2C+Vietnam+%E2%86%92+%E6%97%A5%E6%9C%AC%F0%9F%87%AF%EF%B8%8F" alt="Typing SVG" />  
 ### Đỗ Việt Hoàng（ド・ヴィエット・ホアン）・19歳・ベトナム・バクザン在住
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/ceefe8a2-9bf9-4e8d-bdc8-0f7aba9d7adb" />
 
 ### Đỗ Việt Hoàng（ド・ヴィエット・ホアン）
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/074dd43e-243e-4f92-a788-52ac7d77479d" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/c7924109-01db-484c-b544-207e1b3df521" />
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=35…83%B3;Full-stack+Web+Developer;Welcome+to+my+GitHub+Profile!" />
 </p>
 
