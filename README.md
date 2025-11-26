@@ -1,27 +1,29 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81%E3%83%89%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88%E3%83%BB%E3%83%9B%E3%82%A2%E3%83%B3%E3%81%A7%E3%81%99;Web+Developer+%E2%80%A2+%E3%83%95%E3%82%A9%E3%83%B3%E3%83%89%E3%83%B3%E5%A4%A7%E5%AD%A6+2%E5%B9%B4%E7%94%9F;%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E2%86%92%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%B8%8C%E6%9C%9B;BacGiang%2C+Vietnam+%E2%86%92+%E6%97%A5%E6%9C%AC%F0%9F%87%AF%EF%B8%8F" alt="Typing SVG" />
 # こんにちは、私はヒエウです 👋  
 ### Đỗ Việt Hoàng（ド・ヴィエット・ホアン）・19歳・ベトナム・バクザン在住
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/f278aa32-fe97-4525-a6f4-1256061cac3b" align="right" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/ceefe8a2-9bf9-4e8d-bdc8-0f7aba9d7adb" />
+
 ### Đỗ Việt Hoàng（ド・ヴィエット・ホアン）
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/f278aa32-fe97-4525-a6f4-1256061cac3b" align="right" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/074dd43e-243e-4f92-a788-52ac7d77479d" />
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=35…83%B3;Full-stack+Web+Developer;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 # 👋 ド・ヴィエット・ホアン - Full-stack Web Developer
 
 # 👋 ド・ヴィエット・ホアン 
-### 📍 ハノイ、ベトナム | 📧 viethoangk651@gmail.com
+### 📍バクザン、ベトナム | 📧 viethoangk651@gmail.com
 
 ---
 
 ## 🚀 サマリー＆目標（Summary & Objective）
 
-わたしは **フォンドン大学** の **情報技術学部** に在学している **2年生** です。  
+わたしは **フォンドン大学** の **情報技術学部** に在学している **2年生** です。
 個人で **A から Z まで** の Web サイトを開発した経験があります（Full-stack Development）。
 
-- **目標：** 日本で **システム開発エンジニア（System Development Engineer）** として働きたいです。  
-- **強み：** 自主的に学ぶ力、個人プロジェクト（Full-stack）の経験、チーム開発の経験、Web アプリの基本技術の理解。  
-- **趣味：** マンガを読むこと、日本文化を学ぶこと。
-
+- **目標：** 日本で **システム開発エンジニア（System Development Engineer）** として働きたいです。
+- **強み：** 自主的に学ぶ力、環境への順応性、チーム開発の経験、Web アプリの基本技術の理解。
+- **趣味：** スポーツ、アニメ、日本文化を学ぶこと。
+  
 ---
 
 ## 🛠️ 専門スキル（Hard Skills）
