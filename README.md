@@ -1,15 +1,14 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81%E3%83%89%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88%E3%83%BB%E3%83%9B%E3%82%A2%E3%83%B3%E3%81%A7%E3%81%99;Web+Developer+%E2%80%A2+%E3%83%95%E3%82%A9%E3%83%B3%E3%83%89%E3%83%B3%E5%A4%A7%E5%AD%A6+2%E5%B9%B4%E7%94%9F;%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E2%86%92%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%B8%8C%E6%9C%9B;BacGiang%2C+Vietnam+%E2%86%92+%E6%97%A5%E6%9C%AC%F0%9F%87%AF%EF%B8%8F" alt="Typing SVG" />  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81%E3%83%89%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88%E3%83%BB%E3%83%9B%E3%82%A2%E3%83%B3%E3%81%A7%E3%81%99;Web+Developer+%E2%80%A2+%E3%83%95%E3%82%A9%E3%83%B3%E3%83%89%E3%83%B3%E5%A4%A7%E5%AD%A6+2%E5%B9%B4%E7%94%9F;%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E2%86%92%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%B8%8C%E6%9C%9B;BacGiang%2C+Vietnam+%E2%86%92+%E6%97%A5%E6%9C%AC%F0%9F%87%AF%EF%B8%8F" alt="Typing SVG" />  
 ### Đỗ Việt Hoàng（ド・ヴィエット・ホアン）・19歳・ベトナム・バクザン在住
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/ceefe8a2-9bf9-4e8d-bdc8-0f7aba9d7adb" />
+
 
 ### Đỗ Việt Hoàng（ド・ヴィエット・ホアン）
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/c7924109-01db-484c-b544-207e1b3df521" />
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=35…83%B3;Full-stack+Web+Developer;Welcome+to+my+GitHub+Profile!" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/ceefe8a2-9bf9-4e8d-bdc8-0f7aba9d7adb" />
 </p>
 
 # 👋 ド・ヴィエット・ホアン - Full-stack Web Developer
 
-# 👋 ド・ヴィエット・ホアン 
+# 👋 ド・ヴィエット・ホアン 
 ### 📍バクザン、ベトナム | 📧 viethoangk651@gmail.com
 
 ---
@@ -22,7 +21,7 @@
 - **目標：** 日本で **システム開発エンジニア（System Development Engineer）** として働きたいです。
 - **強み：** 自主的に学ぶ力、環境への順応性、チーム開発の経験、Web アプリの基本技術の理解。
 - **趣味：** スポーツ、アニメ、日本文化を学ぶこと。
-  
+  
 ---
 
 ## 🛠️ 専門スキル（Hard Skills）
@@ -46,48 +45,34 @@
 
 ---
 
-## 🌐 代表的なプロジェクト（Selected Projects）
+## 🌐 共同開発プロジェクト（Group Web Project）
 
-### 🎬 1. Netflux — 映画視聴サイト（個人プロジェクト｜Full-stack）
-大手 OTT サービスを参考にした、フロントからデータベースまで全てを構築した Web アプリです。
+### 🍬 1. Sweet Shop — オンライン菓子販売サイト（グループプロジェクト｜Full-stack）
+食品ECサイトをモデルに、商品管理から注文処理までを実装した Web アプリケーションです。
 
-- **使用技術：** HTML, CSS, JavaScript, PHP, SQL（MySQL/SQL Server）  
-- **担当：** **Full-stack Developer**（Front-end, Back-end, Database 全て）
+- **使用技術：** HTML, CSS, JavaScript, PHP, SQL（MySQL/SQL Server）  
+- **担当：** **Back-end/Full-stack Developer**（チーム開発でのバックエンドとデータベース設計を担当）
 
 #### 主な機能（System Features）
 | **ユーザー（User）** | **管理者（Admin）** |
 | :--- | :--- |
 | ✅ **Authentication：** 登録／ログイン／ログアウト | ✅ **ユーザー管理（Account Management）** |
-| ✅ **決済：** プラン購入（メンバーシップ） | ✅ **映画管理（CRUD）** |
-| ✅ 映画検索・視聴・コメント機能 | ✅ アカウント権限の管理 |
-| ✅ 視聴履歴・お気に入り保存 | |
+| ✅ **商品検索・フィルタリング** | ✅ **商品管理（CRUD）** |
+| ✅ **ショッピングカート・注文処理** | ✅ **注文管理・在庫管理** |
+| ✅ 注文履歴・レビュー投稿 | |
 
 ---
 
-### 🔸 2. アニメ・ランディングページ
-- **目的：** モダンで見やすい UI デザイン  
+### 🔸 2. アニメ・ランディングページ（グループプロジェクト）
+- **目的：** モダンで見やすい UI デザイン  
 - **特徴：** すべてのデバイスで **100% レスポンシブ**
-
----
-
-## 🖼️ Web インターフェース（Web Interface Showcase）
-
-| ページ | 画像 |
-| :--- | :--- |
-| **ホームページ** | <img width="1306" height="606" src="https://github.com/user-attachments/assets/c18b5775-b47e-4bbc-9c9f-0398f81540fa" /> |
-| **ジャンル別ページ** | <img width="1301" height="605" src="https://github.com/user-attachments/assets/bcd97c28-2c35-4a4b-a5ae-e1d2485e80ab" /> |
-| **映画詳細＆コメント** | <img width="1300" height="602" src="https://github.com/user-attachments/assets/1fac0eee-cbc8-4a80-b491-69f78ebc5880" /> |
-| **映画リスト** | <img width="1303" height="606" src="https://github.com/user-attachments/assets/2cdddc17-4575-4a5c-bea5-b4207a94931f" /> |
-| **作品詳細ページ** | <img width="1301" height="604" src="https://github.com/user-attachments/assets/6301fed6-ef1b-4842-b2a0-251f5a8d3caf" /> |
-| **視聴画面（Video Player）** | <img width="1351" height="768" src="https://github.com/user-attachments/assets/ba55b8b6-6bbf-4038-85ef-c8b1a34b15d4" /> |
-| **視聴履歴** | <img width="1873" height="856" src="https://github.com/user-attachments/assets/81b97156-f6f3-402c-850c-c0058c9e9361" /> |
 
 ---
 
 ## 🎓 学歴（Education）
 
-**フォンドン大学**  
-- **専攻：** 情報技術  
+**フォンドン大学**  
+- **専攻：** 情報技術  
 - **学年：** 2年生（在学中）
 
 ---
